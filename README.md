@@ -1,7 +1,7 @@
 ### Hi there, I'm Simone Santillo 👋
 
 ## I'm an italian Software Engineer 👨‍💻
-- 🖥️ Currently working as Computer Vision Engineer @ Deep Vision Consulting 
+- 🖥️ Currently working as Data Scientist @ Leithà s.r.l. (Unipol Group)
 - 🎄 Super fan of [Advent Of Code](https://adventofcode.com/) events (check out my [solutions](https://github.com/SantoSimone/Advent-of-Code))
 - 🏐 Volleyball player and trainer
 - 💭 Sometimes I like to [blog](https://santosimone.github.io/awesomeBlog/) about what I learn or develop 
